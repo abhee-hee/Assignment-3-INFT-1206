@@ -4,6 +4,7 @@ body {
   
   h1 {
     color: hotpink;
+      /*colour changed to hotpink*/
     font-size: 2em;
     font-family: Georgia, "Times New Roman", Times, serif;
     border-bottom: 10px dotted purple;
@@ -11,6 +12,7 @@ body {
   
   h2 {
     font-style: italic;
+      /*font style added italic*/
     font-size: 1.5em;
   }
   
@@ -32,6 +34,7 @@ body {
   
   a:hover {
     color: green;
+      /*colour added on hover*/
     text-decoration: none;
   }
   
